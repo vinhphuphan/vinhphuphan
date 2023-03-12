@@ -1,8 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Vinh Phu. I am an M.Sc. in Data Science at Macquarie University in Sydney. I am interested in the following topics: Deep Learning Computer Vision. Reinforcement Learning.<br>
+My name is Vinh Phu. I am an M.Sc. in Data Science at Macquarie University in Sydney. I am interested in the following topics: Deep Learning, Computer Vision &  Reinforcement Learning.<br>
 
 <h2>🛠 Technologies and Tools 🛠</h2>
-<br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
@@ -22,43 +21,27 @@ My name is Vinh Phu. I am an M.Sc. in Data Science at Macquarie University in Sy
 &nbsp;
 
 <br>
-<h2>🔥 GitHub Stats 🔥</h2>
+
+## 📫 How to reach me:
+<!-- https://icons8.com -->
+<div>
+  <a href="https://facebook.com/VinhPhu.DS" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="VinhPhu.DS-facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/vinhphu97" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="vinhphu97-linkedin" />
+  </a>
+  <a href="mailto:vinhphu.phan@students.mq.edu.au" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="vinhphuphan-email" />
+  </a>
+</div>
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="vinhphuphan">
     <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=vinhphuphan&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
 </div>
-
-<br>
-<h2>👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
-  </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
-  </a>
-</div>
-
-<br>
-
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a>
 
 
 
