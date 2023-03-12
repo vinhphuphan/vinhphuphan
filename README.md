@@ -1,7 +1,7 @@
-### WELCOME TO MY PAGE 👋👋👋
+## WELCOME TO MY PAGE 👋👋👋
 My name is Vinh Phu. I am an M.Sc. in Data Science at Macquarie University in Sydney. I am interested in the following topics: Deep Learning, Computer Vision &  Reinforcement Learning.<br>
 
-<h2>🛠 Technologies and Tools 🛠</h2>
+<h3>🛠 Technologies and Tools 🛠</h3>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
@@ -22,7 +22,7 @@ My name is Vinh Phu. I am an M.Sc. in Data Science at Macquarie University in Sy
 
 <br>
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 <!-- https://icons8.com -->
 <div>
   <a href="https://facebook.com/VinhPhu.DS" target="blank">
@@ -42,6 +42,12 @@ My name is Vinh Phu. I am an M.Sc. in Data Science at Macquarie University in Sy
   <a href="#" title="vinhphuphan">
     <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=vinhphuphan&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
 </div>
-
+  
+### ✨ Projects:
+  
+<a href="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vinhphuphan&repo=Titanic-Machine-Learning-from-Disaster&theme=radical" />
+</a>  
 
 
