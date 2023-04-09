@@ -5,10 +5,6 @@ My name is Vinh Phu. I am an M.Sc. in Data Science at Macquarie University in Sy
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow&logoColor=##FF6F00" alt="TensorFlow logo" title="Python" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/scikit-learn-282C34?logo=scikit-learn&logoColor=##F7931E" alt="scikit-learn logo" title="scikit-learn" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
