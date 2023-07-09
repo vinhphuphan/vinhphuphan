@@ -3,7 +3,7 @@ My name is Vinh Phu. I am an M.Sc. in Data Science at Macquarie University in Sy
 
 <h3>🛠 Technologies and Tools 🛠</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,mongodb,html,css,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,html,css,mongodb,github,tensorflow)](https://skillicons.dev)
 <br>
 
 ### 📫 How to reach me:
