@@ -2,20 +2,8 @@
 My name is Vinh Phu. I am an M.Sc. in Data Science at Macquarie University in Sydney. I am interested in the following topics: Data analytics, Deep Learning, Computer Vision &  Reinforcement Learning.<br>
 
 <h3>🛠 Technologies and Tools 🛠</h3>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=#276DC3" alt="R logo" title="R" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
 
+[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,mongodb,html,css,github)](https://skillicons.dev)
 <br>
 
 ### 📫 How to reach me:
@@ -49,12 +37,15 @@ My name is Vinh Phu. I am an M.Sc. in Data Science at Macquarie University in Sy
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vinhphuphan&repo=Olympic-Weightlifting-Data-Analysis&theme=dark"/>
 </a>
-<a href="https://github.com/vinhphuphan/ImageClassification">
+<a href="https://github.com/vinhphuphan/Living-Species-Image-Classification-using-Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vinhphuphan&repo=ImageClassification&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vinhphuphan&repo=Living-Species-Image-Classification-using-Python&theme=dark"/>
 </a>
 <a href="https://github.com/vinhphuphan/Text-Classification-With-Movie-Reviews">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vinhphuphan&repo=Text-Classification-With-Movie-Reviews&theme=dark"/>
-</a>  
- 
+</a>
+<a href="https://github.com/vinhphuphan/Frontendmentor-Challenge-Results-Summary-Component-Using-HTML-CSS">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vinhphuphan&repo=Frontendmentor-Challenge-Results-Summary-Component-Using-HTML-CSS&theme=dark"/>
+</a>
