@@ -37,9 +37,9 @@ My name is Vinh Phu. I am an M.Sc. in Data Science at Macquarie University in Sy
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vinhphuphan&repo=Olympic-Weightlifting-Data-Analysis&theme=dark"/>
 </a>
-<a href="https://github.com/vinhphuphan/Living-Species-Image-Classification-using-Python">
+<a href="https://github.com/vinhphuphan/Living-Species-Image-Classification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vinhphuphan&repo=Living-Species-Image-Classification-using-Python&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vinhphuphan&repo=Living-Species-Image-Classification&theme=dark"/>
 </a>
 <a href="https://github.com/vinhphuphan/Text-Classification-With-Movie-Reviews">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
