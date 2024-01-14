@@ -1,12 +1,16 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%">
+<p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="70%"></p>
 
-<h1 align="center">Hi 👋, I'm Vinh Phu</h1>
+<h1 align="center">Vinh Phu</h1>
 <h3 align="center">A Front-End React Developer based in Sydney, Australia.</h3>
 
-<h3>🛠 Technologies and Tools 🛠</h3>
+I am an IT student in Australia. I am interested in Web Development and Data Science. My core stack is **React, Next.js**, and **MongoDB**. I am also familiar with **TypeScript** and **Prisma**. I am always eager to learn best practices of software development. I am currently looking for a full-time position as a software developer.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,mysql,mongodb)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/60139fb461ef56a19afd68ea4094f6069f27ce49/icons8-microsoft-excel%20(1).svg" alt="excel" width="55" height="55"/> 
-<br>
+---
+### 🧰 Languages and Tools 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,next,mongodb)](https://skillicons.dev)
+
+
 
 ### 📫 How to reach me:
 <div>
@@ -23,10 +27,14 @@
 
 <br>
 
-<div>
-  <a href="#" title="vinhphuphan">
-    <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=vinhphuphan&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
-</div>
+### 📊 Stats
+
+![vinhphuphan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhanVinhPhu&show_icons=true&theme=light)
+
+
+<details>
+ <summary><h3>👨‍💻 Coding Journey</h3></summary>
+After graduating with a Bachelor degree in **Economics**, I decided to pursue my my passion for programming. I enrolled in a post-graduate course and learned web development. My favorite part of programming is the problem-solving aspect. I love the feeling of finally figuring a solution to a problem. My core stack is React, Next.js, Node.js, and MongoDB. I am also familiar with TypeScript and Prisma. I am always looking to learn best practices. I am currently looking for a full-time position as a software developer.
 
 
 ### ✨ Projects:
