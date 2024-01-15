@@ -27,7 +27,7 @@ I am an IT student in Australia. I am interested in Web Development and Data Sci
 
 ### 📊 Stats
 
-![vinhphuphan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhanVinhPhu&show_icons=true&theme=light)
+![vinhphuphan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinhphuphan&show_icons=true&theme=light)
 
 
 ### ✨ Projects:
