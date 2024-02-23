@@ -1,6 +1,6 @@
 ## 👋 Hello! 
 
-My name is Vinh Phu. I am an IT student in Australia. I am interested in Web Development and Data Science. My core stack is **React, Next.js**, and **MongoDB**. I am also familiar with **TypeScript** and **Prisma**. I am always eager to learn best practices of software development.
+My name is Vinh Phu. I am an IT student in Australia. I am interested in Web Development and Data Science. My core stack is **React, Node**, and **MongoDB**. I am always eager to learn best practices of software development.
 
 
 ### 💻 Languages and Tools 
