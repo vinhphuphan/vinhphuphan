@@ -5,7 +5,7 @@ My name is Vinh Phu. I am an IT student in Australia. I am interested in Web Dev
 
 ### 💻 Languages and Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,next,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,nodejs,mongodb)](https://skillicons.dev)
 
 ### 📊 GitHub
 
