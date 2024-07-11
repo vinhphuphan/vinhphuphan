@@ -1,6 +1,6 @@
 ## 👋 Hello! 
 
-My name is Vinh Phu. I am an IT student in Australia. I am interested in Web Development and Data Science. My core stack is **React, Node**, and **MongoDB**. I am always eager to learn best practices of software development.
+My name is Vinh Phu. I am an IT graduate in Australia. I am interested in Software Development and Data Science. My core stack is **React, Node**, and **MongoDB**. I am always eager to learn best practices of software development.
 
 
 ### 💻 Languages and Tools 
@@ -13,5 +13,5 @@ My name is Vinh Phu. I am an IT student in Australia. I am interested in Web Dev
 
 ### LeetCode
 
-[![VinhPhu's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vinhphuphan)](https://github.com/KnlnKS/leetcode-stats)
+![VinhPhu's LeetCode stats](https://leetcode.card.workers.dev/vinhphuphan?theme=default&font=baloo&extension=null)
 
