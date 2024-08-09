@@ -5,7 +5,7 @@ My name is Vinh Phu. I am an IT graduate in Australia. I am interested in Softwa
 
 ### 💻 Languages and Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,nextjs,nodejs,nestjs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,nodejs)](https://skillicons.dev)
 
 ### 📊 GitHub
 
