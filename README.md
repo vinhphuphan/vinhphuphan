@@ -1,6 +1,6 @@
 ## 👋 Hello! 
 
-My name is Vinh Phu. I am an IT graduate in Australia. I am interested in Software Development and Data Science. My core stack is **React, Node**, and **MongoDB**. I am always eager to learn best practices of software development.
+My name is Vinh Phu. I am an IT graduate in Australia. I am specialized in Software Development. My core stack is **React, Node**, and **MySQL**. I am always eager to learn best practices of software development.
 
 
 ### 💻 Languages and Tools 
