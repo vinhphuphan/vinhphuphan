@@ -1,13 +1,13 @@
 ## 👋 Hello! 
 
-My name is Vinh Phu. I am an IT graduate in Australia. I am specialized in Software Development. My core stack is **React, Node**, and **MySQL**. I am always eager to learn best practices of software development.
+My name is Vinh Phu. I am an Data Science graduate in Australia. I am specialized in handling and analysing Big Data. I am always eager to learn best practices of building data-driven application.
 
 Visit my website : [Vinh Phu Portfolio Website](https://vinhphu.vercel.app/)
 
 
 ### 💻 Languages and Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,python,javascript,r)](https://skillicons.dev)
 
 ### 📊 GitHub
 
@@ -15,5 +15,5 @@ Visit my website : [Vinh Phu Portfolio Website](https://vinhphu.vercel.app/)
 
 ### LeetCode
 
-![VinhPhu's LeetCode stats](https://leetcode.card.workers.dev/vinhphuphan?theme=default&font=baloo&extension=null)
+![Leetcode Stats](https://leetcard.jacoblin.cool/vinhphuphan)
 
