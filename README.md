@@ -1,6 +1,6 @@
 ## 👋 Hello! 
 
-My name is Vinh Phu. I am an Data Science graduate in Australia. I am specialized in handling and analysing Big Data. I am always eager to learn best practices of building data-driven application.
+My name is Vinh Phu. I am an Computer Science graduate in Australia. I am specialized in building and developing software. I am always eager to learn best practices of building application.
 
 Visit my website : [Vinh Phu Portfolio Website](https://vinhphu.vercel.app/)
 
