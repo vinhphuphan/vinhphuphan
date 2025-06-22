@@ -7,7 +7,7 @@ Visit my website : [Vinh Phu Portfolio Website](https://vinhphu.vercel.app/)
 
 ### 💻 Languages and Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,python,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,mysql,r)](https://skillicons.dev)
 
 ### 📊 GitHub
 
