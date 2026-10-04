@@ -1,24 +1,38 @@
-## 👋 Hello! 
+# Vinh Phu
 
-My name is Vinh Phu. I am an Computer Science graduate in Australia. I am specialized in building and developing software. I am always eager to learn best practices of building application.
+### AI Engineer
 
-Visit my website : [Vinh Phu Portfolio Website](https://vinhphu.vercel.app/)
+Hi, I'm **Vinh Phu**, I graduated in **November 2025** with a degree in **Data Science** from **Macquarie University**, specializing in Machine Learning and Big Data technologies. Recipient of the **Highest Achievement Award (2023)** from the Faculty of Science and Engineering, and awarded a **merit-based scholarship of 10,000 AUD** per year during my studies. Previously selected as a PASS Leader, supporting students in strengthening core concepts, problem-solving, and coding skills. Experienced in building AI applications using TensorFlow and PyTorch, with a focus on NLP, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and multi-agent systems.
 
+I am particularly interested in turning AI models into reliable software products rather than working only with model training and experimentation.
 
-### 💻 Languages and Tools 
+### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,mysql,mongodb,docker)](https://skillicons.dev)
+**Languages**
 
-### 🌐 Connect with me:
+[![Languages](https://skillicons.dev/icons?i=python,typescript,sql)](https://skillicons.dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinhphuphan/)
+**Backend & Data**
 
+[![Backend](https://skillicons.dev/icons?i=fastapi,postgresql,supabase)](https://skillicons.dev)
 
-### 📊 GitHub
+**AI / GenAI**
 
-[![VinhPhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinhphuphan)]
+- LLM APIs
+- Retrieval-Augmented Generation (RAG)
+- Embeddings
+- Vector Search
+- Hybrid Search
+- Tool Calling
+- AI Agents
+- Evaluation & Guardrails
 
-### LeetCode
+**Engineering**
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/vinhphuphan)
+[![Engineering](https://skillicons.dev/icons?i=git,github,docker,linux)](https://skillicons.dev)
 
+### 🚀 Featured Project
+
+#### NorthStar Document AI Assistant
+
+A GenAI research assistant designed to help analysts search and reason over Vietnamese public-company documents.
