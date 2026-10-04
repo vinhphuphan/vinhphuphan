@@ -27,7 +27,7 @@ I am particularly interested in turning AI models into reliable software product
 - AI Agents
 - Evaluation & Guardrails
 
-**Engineering**
+**Software Engineering**
 
 [![Engineering](https://skillicons.dev/icons?i=git,github,docker,linux)](https://skillicons.dev)
 
